@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+.index_main {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.index_text {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 24px;
+}
+
+.mac_main {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.index_main_text {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 110px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mac_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mac_name {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.index_main_text {
+    padding-top: 0;
+}
+
+.space_gray {
+    color: #0071E3;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.contain_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.index_main {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.white {
+    color: #0071E3;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.mac_price {
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.mac_img {
+    padding-top: 63px;
+}
+
+.index_img {
+    padding-top: 63px;
+}
+
+.index_price {
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main_elements {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding-top: 59px;
+}
+
+.mac_contain_elements {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding-top: 59px;
+}
+
+/* кнопки */
+
+.mac_white {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    background: white;
+    cursor: pointer;
+}
+
+.mac_space_grey {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    background: #0071E3;
+    cursor: pointer;
+}
+
+.index_button {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    background: #0071E3;
+    cursor: pointer;
+}
+
+.mac_button {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    background: white;
+    cursor: pointer;
+}
+
+.decoration {
+    text-decoration: none;
+}
+
+.decoration_2 {
+    text-decoration: none;
+}
+
+.section {  
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.mac_b {
+    width: 190px;
+    border: 1px solid red;
+}
